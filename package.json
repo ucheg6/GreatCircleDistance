@@ -1,0 +1,15 @@
+{
+  "name": "spidergaptest",
+  "version": "1.0.0",
+  "description": "Spider Gap Coding test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Uchechukwu Akogwu",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
